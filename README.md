@@ -1,1 +1,1 @@
-# Django-App---Online-Examination-System
+# Django App - Online Examination System
